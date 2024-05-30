@@ -45,6 +45,9 @@ Linux:
 ```bash
 nano db.json
 ```
+after finishing, Press Ctrl + S to save and then Ctrl + X to exit the editor.
+
+
 Windows: use notepad or notepad++ or other text-editing tools and edit the db.json file.
 
 Replace these variables:
