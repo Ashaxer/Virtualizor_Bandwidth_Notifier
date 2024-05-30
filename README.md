@@ -48,15 +48,25 @@ nano db.json
 Windows: use notepad or notepad++ or other text-editing tools and edit the db.json file.
 
 Replace these variables:
+
 TG_API_KEY with your telegram bot api key
+
 CHAT_IDS with your telegram chat id (you can add more ids, just separate them with comma. E.X. "chat_ids": ["123456","987654"]
+
 NNAME with a NickName for your prefered VPS name
+
 V_API_KEY with your Virtualizor panel API Key
+
 V_API_PASS with your Virtualizor panel API Pass
+
 V_Address with your Virtualizor IP Address including the port E.X. 78.79.88.47:4083
+
 VPS_ID with your VPS ID
+
 W_QUOTA with desired warning quota
+
 NT_SLEEP with desired time in seconds for script to wait if it sent you a notifications
+
 T_SLEEP with desired time in seconds for script to wait before check again
 
 You setup multiple Virtualizor and VPS information to the config by adding all of your server info inside the "vps_list" list!
