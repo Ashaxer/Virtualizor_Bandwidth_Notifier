@@ -5,33 +5,33 @@ I was too lazy to make a setup script so you have to do it with JSON knowledge ;
 
 # What you need
 
-##Telegram Bot
+## Telegram Bot
 To make a telegram bot:
 1. start the BotFather in telegram: https://t.me/BotFather
 2. Create a bot, BotFather will send you its api_token, Save it!
 
-##Telegram Chat ID
+## Telegram Chat ID
 To find your chat id:
 1. start the IDBot in telegram: https://t.me/username_to_id_bot
 2. IDBot will send you your Chat ID, Save it!
 
-##Virtualizor Info
-###API Access
+## Virtualizor Info
+### API Access
 To gain api access of your Virtualizor account:
 1. Login to your account and click on your username on the top and then click on "API Credentials"
 2. On the "Create API Credentials" tab, click on "Create API Key Pair"
 3. Back on "List API Credentials" tab, you can see generated "API Key" and "API Password", Save it!
 
-###Virtualizor Panel IP
+### Virtualizor Panel IP
 The IP address of your Virtualizor Panel IP given to you by the administrator, Usualy ends with 4083 port!
 
-###VPS ID
+### VPS ID
 Login to your Virtualizor account, on the "List VPS" menu, you can see your VPS info.
 Save the "ID" of your desired VPS
 
 # Setting up the script
 Linux:
-##Clone the project:
+## Clone the project:
 ```bash
 cd /
 git clone https://github.com/Ashaxer/Virtualizor_Bandwidth_Notifier
@@ -61,7 +61,7 @@ T_SLEEP with desired time in seconds for script to wait before check again
 
 You setup multiple Virtualizor and VPS information to the config by adding all of your server info inside the "vps_list" list!
 
-##Install requirements
+## Install requirements
 You need to have python and requests on your machine:
 Linux:
 ```bash
@@ -78,7 +78,7 @@ in Command Prompt window, enter following command:
 python -m pip install requests
 ```
 
-#Run the script
+# Run the script
 Linux:
 ```bash
 python3 Virtualizor.py
