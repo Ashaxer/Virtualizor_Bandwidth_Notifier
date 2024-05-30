@@ -70,6 +70,7 @@ NT_SLEEP with desired time in seconds for script to wait if it sent you a notifi
 T_SLEEP with desired time in seconds for script to wait before check again
 
 You setup multiple Virtualizor and VPS information to the config by adding all of your server info inside the "vps_list" list!
+There is an example file, it will help you out:  
 
 ## Install requirements
 You need to have python and requests on your machine:
