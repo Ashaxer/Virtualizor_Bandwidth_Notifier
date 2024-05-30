@@ -1,0 +1,14 @@
+{ "api_key": "TG_API_KEY",
+  "chat_ids": ["CHAT_IDS"],
+  "vps_list": [
+    { "MACHINE_NICKNAME": "NNAME",
+      "API_KEY": "V_API_KEY",
+      "API_PASS": "V_API_PASS",
+      "HOST_IP": "V_Address",
+      "SV_ID": "VPS_ID",
+      "QUOTA_WARN_GB": W_QUOTA,
+      "NOTIFY_SLEEP_TIMER": NT_SLEEP,
+      "SLEEP_TIMER": T_SLEEP
+    }
+  ]
+}
