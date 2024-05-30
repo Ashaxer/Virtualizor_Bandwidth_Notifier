@@ -33,7 +33,7 @@ Save the "ID" of your desired VPS
 Linux:
 ## Clone the project:
 ```bash
-cd /
+cd
 git clone https://github.com/Ashaxer/Virtualizor_Bandwidth_Notifier
 cd Virtualizor_Bandwidth_Notifier
 ```
