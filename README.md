@@ -48,6 +48,7 @@ nano db.json
 Windows: use notepad or notepad++ or other text-editing tools and edit the db.json file.
 
 Replace these variables:
+
 (There is an example file, it will help you out:  https://github.com/Ashaxer/Virtualizor_Bandwidth_Notifier/blob/main/db_example.json)
 
 TG_API_KEY with your telegram bot api key
