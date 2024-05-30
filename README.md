@@ -39,7 +39,7 @@ cd Virtualizor_Bandwidth_Notifier
 ```
 Windows: simply download the project as zip and extract it in a folder
 
-##Config the JSON file:
+## Config the JSON file:
 You can optionally use online tools to edit the config file.
 Linux:
 ```bash
@@ -82,7 +82,9 @@ pip install requests
 
 Windows:
 Download and install latest python from https://Python.org
+
 after installing python, open "This PC" and type "cmd" on your address bar and hit Enter
+
 in Command Prompt window, enter following command:
 ```cmd
 python -m pip install requests
