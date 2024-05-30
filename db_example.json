@@ -1,0 +1,23 @@
+{ "api_key": "6436317415:AAEyiLD7s2fSk9zCV_UEwBNgfu06PuMIoCI",
+  "chat_ids": ["527743536"],
+  "list": [
+    { "MACHINE_NICKNAME": "Shatel",
+      "API_KEY": "LMX9EVVJ9N3HZLBQ",
+      "API_PASS": "jL2g7aPSCboTSQRfvsES6EJWHh9FXoeR",
+      "HOST_IP": "78.37.55.14:4083",
+      "SV_ID": "601",
+      "QUOTA_WARN_GB": 100,
+      "NOTIFY_SLEEP_TIMER": 3600,
+      "SLEEP_TIMER": 600
+    },
+    { "MACHINE_NICKNAME": "Respina",
+      "API_KEY": "1RENVDKLX1AI6CJ",
+      "API_PASS": "ntIzZ0e4CCz0qVFzxYYAbM0IeSVwdaSk",
+      "HOST_IP": "78.79.88.47:4083",
+      "SV_ID": "456",
+      "QUOTA_WARN_GB": 200,
+      "NOTIFY_SLEEP_TIMER": 3600,
+      "SLEEP_TIMER": 600
+    }
+  ]
+}
