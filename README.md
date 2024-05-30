@@ -50,7 +50,7 @@ after finishing, Press Ctrl + S to save and then Ctrl + X to exit the editor.
 
 Windows: use notepad or notepad++ or other text-editing tools and edit the db.json file.
 
-Replace these variables:
+### Replace Variables:
 
 (There is an example file, it will help you out:  [EXAMPLE](https://github.com/Ashaxer/Virtualizor_Bandwidth_Notifier/blob/main/db_example.json))
 
